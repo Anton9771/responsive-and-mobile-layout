@@ -804,6 +804,7 @@ body {
 	}
 	.article-img {
 		width: 100%;
+		min-width: inherit;
 	}
 	.article-main-title {
 		margin-bottom: 12px;
